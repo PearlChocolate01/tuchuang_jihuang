@@ -1,2 +1,2 @@
 # tuchuang_jihuang
-Images for my WeChat applet-jihuangHandbook.
+Images for my WeChat applet-jihuangHandbook(temporary).
